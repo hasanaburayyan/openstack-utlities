@@ -1,4 +1,4 @@
-module github.com/openstack-utlities
+module github.com/hasanaburayyan/openstack-utlities
 
 go 1.16
 
